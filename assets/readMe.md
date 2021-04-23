@@ -69,6 +69,9 @@ This homework is graded based on the following criteria:
 
 ### Walkthrough Video: 27%
 
+WALKTHROUGH VIDEO LINK
+<iframe src="https://drive.google.com/file/d/1srDnEyGKF8X9xv0WrvV-G6hz1C_kIEPV/preview" width="640" height="480"></iframe>
+
 * A walkthrough video that demonstrates the functionality of the README generator must be submitted, and a link to the video should be included in your README file.
 
 * The walkthrough video must demonstrate how a user would invoke the application from the command line.
